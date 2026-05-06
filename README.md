@@ -1,106 +1,137 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mike
+================================================================================================================================
+
+Software Engineer & Technical Lead
+--------------------
+* 🌍  I'm based in Bangkok, Thailand
+* 💼  Java / Go Developer at **Accord Innovations** → Innovest X Securities
+* 🔭  5+ years building scalable backend systems & microservices
+* 🧠  Currently exploring **Agentic AI** and LLM Integration
+* 🤝  I'm open to collaborating on Backend, Cloud, and AI projects
+
+###
+
+<h3 align="left">⌨️ Languages</h3>
+
+###
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mike;Java+%2F+Go+Developer;5%2B+Years+of+Experience;Building+Scalable+Backend+Systems)](https://github.com/nattaphatmike9)
-
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
----
+###
 
-### About Me
+<h3 align="left">🚀 Backend & Frameworks</h3>
 
-```yaml
-name: Nattaphat Saleetaw (Mike)
-role: Java / Go Developer
-company: Accord Innovations → Innovest X Securities
-location: Bangkok, Thailand
-experience: 5+ years
-focus: Backend Systems, Microservices, Cloud-Native Applications
-```
-
-- Working on trading & investment platform systems
-- Exploring **Agentic AI** and LLM integration
-- Building autonomous workflows with **Claude API**
-- Designing CI/CD pipelines and DevSecOps practices
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**AI & Emerging**
-
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### GitHub Stats
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nattaphatmike9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nattaphatmike9&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" width="48%" />
-
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="fiber logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
+###
+
+<h3 align="left">☁️ Database & Cloud</h3>
+
+###
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattaphatmike9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" width="40%" />
-
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
 </div>
 
----
+###
 
-### Experience Highlights
+<h3 align="left">🛠️ DevOps & Tools</h3>
 
-| Period | Role | Company | Key Projects |
-|--------|------|---------|-------------|
-| 2025 — Present | **Java/Go Developer** | Accord Innovations → Innovest X | Trading & Investment Platform |
-| 2023 — 2025 | **Technical Lead** | Awa Co., Ltd. | E-Document System, Payment Gateway |
-| 2021 — 2023 | **Software Engineer** | Awa Co., Ltd. | Chatbot, Tax Engine, Asset Management |
-
----
-
-### Connect
+###
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mike.nattaphat.com-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mike.nattaphat.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattaphat-saleetaw-16a51527b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattaphat.mike@gmail.com)
-
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
 </div>
 
----
+###
+
+<h3 align="left">🔗 Connect with Me</h3>
+
+###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nattaphatmike9&color=2dd4bf&style=flat-square&label=Profile+Views" />
+  <a href="https://www.mike.nattaphat.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=2dd4bf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+  </a>
+  <img width="5" />
+  <a href="https://www.linkedin.com/in/nattaphat-saleetaw-16a51527b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img width="5" />
+  <a href="mailto:nattaphat.mike@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJyMXgyYjE1MWg3c2w5bnllenQ2cGhxc3U2am1yZjVka3MyOHpudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nattaphatmike9&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nattaphatmike9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattaphatmike9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nattaphatmike9&color=2dd4bf&style=flat-square&label=Profile+Views" />
 </div>
