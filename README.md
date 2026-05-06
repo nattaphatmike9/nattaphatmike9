@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Java+%7C+Go+%7C+Cloud+Native+Developer;Building+Scalable+Microservices+%40+Scale;5%2B+Years+%7C+FinTech+%7C+DevSecOps;Exploring+Agentic+AI+%26+Autonomous+Workflows)](https://github.com/nattaphatmike9)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Java+%7C+Go+%7C+Cloud+Native+Developer;Building+Scalable+Microservices+%40+Scale;5%2B+Years+%7C+FinTech+%7C+DevSecOps;Exploring+Agentic+AI+%26+Autonomous+Workflows)](https://github.com/nattaphatmike9)
 
 </div>
 
