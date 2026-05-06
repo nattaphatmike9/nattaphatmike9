@@ -8,16 +8,14 @@
 
 <br/>
 
-```java
-public class Mike {
-    String name     = "Nattaphat Saleetaw";
-    String role     = "Java / Go Developer";
-    String company  = "Accord Innovations → Innovest X Securities";
-    String location = "Bangkok, Thailand";
-    
-    String[] focus  = { "Microservices", "Cloud-Native", "FinTech", "Agentic AI" };
-    
-    String funFact  = "I design AI agent teams that build entire projects autonomously";
+```go
+type Mike struct {
+    Name     string   // Nattaphat Saleetaw
+    Role     string   // Java / Go Developer
+    Company  string   // Accord Innovations
+    Client   string   // Innovest X Securities
+    Location string   // Bangkok, Thailand
+    Focus    []string // Microservices, FinTech, Agentic AI
 }
 ```
 
